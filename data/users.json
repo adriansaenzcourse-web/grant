@@ -126,6 +126,28 @@
         }
       ]
     },
+    
+    {
+      "id": "faustino_maldonado229",
+      "full_name": "Faustino López Maldonado",
+      "email": "faustinomaldonado66@gmail.com",
+      "password": "faustino1966",
+      "currency": "USD",
+      "created_at": "2026-09-15T08:19:00Z",
+      "grants": [
+        {
+          "id": 2013,
+          "program_name": "Renewed Hope Social Protection Programme",
+          "purpose": "Renewed Hope Social Protection Programme",
+          "requested_amount": 500000,
+          "approved_amount": 500000,
+          "fee": 0,
+          "tax_rate": 0.02,
+          "approved": false,
+          "created_at": "2026-09-15T08:36:00Z"
+        }
+      ]
+    },
     {
       "id": "u_1003",
       "full_name": "Priya Natarajan",
