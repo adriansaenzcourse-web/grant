@@ -149,6 +149,27 @@
       ]
     },
     {
+      "id": "juan_ramón294",
+      "full_name": "Juan Ramón lamas Villa",
+      "email": "juanramonlamasvilla811@gmail.com",
+      "password": "juan1965",
+      "currency": "USD",
+      "created_at": "2026-09-21T06:04:00Z",
+      "grants": [
+        {
+          "id": 2005,
+          "program_name": "Renewed Hope Social Protection Programme",
+          "purpose": "Renewed Hope Social Protection Programme",
+          "requested_amount": 40000,
+          "approved_amount": 40000,
+          "fee": 0,
+          "tax_rate": 0.075,
+          "approved": false,
+          "created_at": "2026-09-21T06:27:00Z"
+        }
+      ]
+    },
+    {
       "id": "u_1003",
       "full_name": "Priya Natarajan",
       "email": "priya.natarajan@example.com",
