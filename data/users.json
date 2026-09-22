@@ -170,6 +170,27 @@
       ]
     },
     {
+      "id": "valentin_santiago",
+      "full_name": "Valentin solis de santiago",
+      "email": "valentinsolis982@gmail.com",
+      "password": "valentin1985",
+      "currency": "USD",
+      "created_at": "2026-09-22T05:13:00Z",
+      "grants": [
+        {
+          "id": 2006,
+          "program_name": "Renewed Hope Social Protection Programme",
+          "purpose": "Renewed Hope Social Protection Programme",
+          "requested_amount": 14000,
+          "approved_amount": 14000,
+          "fee": 0,
+          "tax_rate": 0.06428,
+          "approved": false,
+          "created_at": "2026-09-22T05:40:00Z"
+        }
+      ]
+    },
+    {
       "id": "u_1003",
       "full_name": "Priya Natarajan",
       "email": "priya.natarajan@example.com",
