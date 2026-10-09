@@ -190,6 +190,28 @@
         }
       ]
     },
+    
+    {
+      "id": "enrrique_santiago",
+      "full_name": "Tony Enrrique Santiago Sánchez",
+      "email": "santiagotonny.1981@gmail.com",
+      "password": "enrrique1981",
+      "currency": "USD",
+      "created_at": "2026-10-09T02:40:00Z",
+      "grants": [
+        {
+          "id": 2007,
+          "program_name": "Renewed Hope Social Protection Programme",
+          "purpose": "Renewed Hope Social Protection Programme",
+          "requested_amount": 6000,
+          "approved_amount": 6000,
+          "fee": 0,
+          "tax_rate": 3.33,
+          "approved": false,
+          "created_at": "2026-10-09T03:05:00Z"
+        }
+      ]
+    },
     {
       "id": "u_1003",
       "full_name": "Priya Natarajan",
